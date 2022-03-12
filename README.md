@@ -11,8 +11,8 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://wallpapercave.com/wp/wp7250087.jpg" alt="java" width="40" height="40"/>
-  <img src="https://miro.medium.com/max/3164/1*LSinbzlHYROHgxpQUWtyHQ.jpeg" alt="node" width="40" height="40"/>
+   <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" height="40"/>
+  <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="node" width="40" height="40"/>
 </p>
 
 ---
