@@ -19,7 +19,7 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="node" width="40" height="40"/>
   <img src="https://www.christianengvall.se/wp-content/uploads/2014/05/Git-Logo-2Color-1024x450.png" alt="git" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.softacus.com/images/2020/05/07/urbancode-deploy.png" alt="urban deploy" width="40" height="40"/>
+  <img src="https://www.plutora.com/wp-content/uploads/2018/07/urbancode_deploy.png" alt="urban deploy" width="40" height="40"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ management and fund platforms (i.e web portal)
 
 ---
 
-### ACHIEVEMENTS
+### PROJECTS
 <ul>
   <li style="color:black"><b>CodeVita Zonal 2020</b></li>
   - Shortlisted for final coding round
@@ -71,6 +71,20 @@ management and fund platforms (i.e web portal)
   - Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
   <li style="color:black"><b>Marathon 2018</b></li>
   - Organiser
+</ul>
+
+### ACHIEVEMENTS
+<ul>
+  <li style="color:black"><b>Library Management System (Java)</b></li>
+  - The project manages and stores books information electronically acc. to students needs
+  <li style="color:black"><b>Face Detection (Python)</b></li>
+  - The project helps to locate/visualize human faces in digital images
+  <li style="color:black"><b>Google calender (React, Node JS, MongoDB)</b></li>
+  - The project helps in managing appointments, sharing dates and information, having searchability and many more things.
+  <li style="color:black"><b>TODO App (React Js)</b></li>
+  - The project helps to maintain our day-to-day tasks that we have to do
+  <li style="color:black"><b>Online Quiz App (React Js)/b></li>
+  - The project helps to test your knowledge with a quick,fun challenge
 </ul>
 
 ### INTERESTS
