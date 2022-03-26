@@ -13,13 +13,14 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
   <img src="https://redux-saga.js.org/img/Redux-Saga-Logo-Portrait.png" alt="redux" width="40" height="40"/>
   <img src="https://france.scc.com/wp-content/uploads/2021/02/AWS_logo_CMYK-png.png" alt="aws" width="40" height="40"/>
+  <img src="https://datadog-docs.imgix.net/images/integrations_logos/amazon_sqs-957461ad.png" alt="sqs" width="40" height="40"/>
    <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" height="40"/>
   <img src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="spring boot" width="40" height="40"/>
   <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="postman" width="40" height="40"/>
   <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="node" width="40" height="40"/>
   <img src="https://www.christianengvall.se/wp-content/uploads/2014/05/Git-Logo-2Color-1024x450.png" alt="git" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.plutora.com/wp-content/uploads/2018/07/urbancode_deploy.png" alt="urban deploy" width="40" height="40"/>
+  <img src="https://www.slashgear.com/wp-content/uploads/2013/04/urbancode.jpg" alt="urban deploy" width="40" height="40"/>
 </p>
 
 ---
