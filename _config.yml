@@ -1,4 +1,4 @@
-title: Yashika Raheja# your name (or website title) here
+title: Yashika Raheja # your name (or website title) here
 logo: "/my_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Full Stack Developer
@@ -7,6 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/yashika-raheja-9a16b5153/">LinkedIn Profile</a>
   <br>
-  <a href="https://github.com/yashikaraheja/">Gihub</a> 
+  <a href="https://github.com/yashikaraheja/">Gihub</a>
+  <br>
   <a href="https://www.codechef.com/users/yashika_raheja">Codechef</a> 
+  <br>
 theme: jekyll-theme-minimal
