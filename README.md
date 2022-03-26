@@ -12,7 +12,12 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" height="40"/>
+  <img src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="spring boot" width="40" height="40"/>
+  <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="postman" width="40" height="40"/>
   <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="node" width="40" height="40"/>
+  <img src="https://france.scc.com/wp-content/uploads/2021/02/AWS_logo_CMYK-png.png" alt="aws" width="40" height="40"/>
+  <img src="https://www.christianengvall.se/wp-content/uploads/2014/05/Git-Logo-2Color-1024x450.png" alt="git" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/jenkins-282182.png" alt="jenkins" width="40" height="40"/>
 </p>
 
 ---
@@ -22,7 +27,7 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
 ### **FULL STACK DEVELOPER**
 ### Fidelity International
 
-<h2> Achievements/Tasks </h2>
+<h4> Achievements/Tasks </h4>
 <ul>
  <li>On the spot award</li>
  <li>Investment management services including mutual funds, pension </li>
