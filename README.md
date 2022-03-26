@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a full stack developer with an experience of over 1.7 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on React, Node js, Java and AWS.
+I am a full stack developer with an experience of over 1.7 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on React, Node js, Java and AWS.
 
 ---
 
@@ -22,17 +22,19 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
 ### **FULL STACK DEVELOPER**
 ### Fidelity International
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+<h2> Achievements/Tasks </h2>
+<ul>
+ <li>On the spot award</li>
+ <li>Investment management services including mutual funds, pension </li>
+management and fund platforms (i.e web portal)
+ <li>Full Stack developer </li>
+ <li>Hystrix integration, file management , Redux Saga, AWS Lambda, messaging queue, building
+   microservices, concurrency etc .</li>
+ <li>HC suit for all services (Put,Get,Post) </li>
+ <li>All the functionality of funds (Buy, Sell & Switch) </li>
+</ul>
 
-### **FRONTEND DEVELOPER**
-### Booking.com
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
 ---
 
