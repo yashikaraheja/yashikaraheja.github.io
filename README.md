@@ -60,7 +60,7 @@ management and fund platforms (i.e web portal)
 
 ### ACHIEVEMENTS
 <ul>
-  <li><h5>CodeVita Zonal(2020)</h5></li>
+  <li>### CodeVita Zonal(2020)</li>
   Shortlisted for final coding round
   <li><h5>IT quiz MIT 2013</h5></li>
   - Secured first position
