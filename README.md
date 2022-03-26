@@ -10,8 +10,8 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-  <img src="https://www.cloudsavvyit.com/thumbcache/0/0/9ae57549b0d5ea676000cc68d140330d/p/uploads/2020/03/9c80fe24.png" alt="redux" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
+  <img src="https://www.cloudsavvyit.com/thumbcache/0/0/9ae57549b0d5ea676000cc68d140330d/p/uploads/2020/03/9c80fe24.png" alt="redux" width="40" height="40"/>
   <img src="https://france.scc.com/wp-content/uploads/2021/02/AWS_logo_CMYK-png.png" alt="aws" width="40" height="40"/>
    <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" height="40"/>
   <img src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="spring boot" width="40" height="40"/>
@@ -60,9 +60,9 @@ management and fund platforms (i.e web portal)
 
 ### ACHIEVEMENTS
 <ul>
-  <li>CodeVita Zonal(2020)</li>
-  - Shortlisted for final coding round
-  <li>IT quiz MIT 2013</li>
+  <li><h5>CodeVita Zonal(2020)</h5></li>
+  Shortlisted for final coding round
+  <li><h5>IT quiz MIT 2013</h5></li>
   - Secured first position
   <li>National Children Science Congress</li>
   - Qualified National Level
