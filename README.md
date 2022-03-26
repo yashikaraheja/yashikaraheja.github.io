@@ -11,7 +11,7 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
-  <img src="https://www.cloudsavvyit.com/thumbcache/0/0/9ae57549b0d5ea676000cc68d140330d/p/uploads/2020/03/9c80fe24.png" alt="redux" width="40" height="40"/>
+  <img src="https://redux-saga.js.org/img/Redux-Saga-Logo-Portrait.png" alt="redux" width="40" height="40"/>
   <img src="https://france.scc.com/wp-content/uploads/2021/02/AWS_logo_CMYK-png.png" alt="aws" width="40" height="40"/>
    <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" height="40"/>
   <img src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="spring boot" width="40" height="40"/>
@@ -60,15 +60,15 @@ management and fund platforms (i.e web portal)
 
 ### ACHIEVEMENTS
 <ul>
-  <li color="black">CodeVita Zonal(2020)</li>
+  <li style="color:black">CodeVita Zonal(2020)</li>
   - Shortlisted for final coding round
-  <li color="black">IT quiz MIT 2013<</li>
+  <li style="color:black">IT quiz MIT 2013</li>
   - Secured first position
-  <li color="black">National Children Science Congress</li>
+  <li style="color:black">National Children Science Congress</li>
   - Qualified National Level
-  <li color="black">Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</li>
+  <li style="color:black">Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</li>
   - Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
-  <li color="black">Marathon 2018</li>
+  <li style="color:black">Marathon 2018</li>
   - Organiser
 </ul>
 
