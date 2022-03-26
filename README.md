@@ -54,7 +54,7 @@ management and fund platforms (i.e web portal)
   - The project helps in managing appointments, sharing dates and information, having searchability and many more things.
   <li style="color:black"><b>TODO App (React Js)</b></li>
   - The project helps to maintain our day-to-day tasks that we have to do
-  <li style="color:black"><b>Online Quiz App (React Js)/b></li>
+  <li style="color:black"><b>Online Quiz App (React Js)</b></li>
   - The project helps to test your knowledge with a quick,fun challenge
 </ul>
 
