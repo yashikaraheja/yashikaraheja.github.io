@@ -73,7 +73,7 @@ management and fund platforms (i.e web portal)
 ### Class 10th (2014)
 9.8 CGPA
 
-
+---
 
 ### ACHIEVEMENTS
 <ul>
@@ -88,6 +88,8 @@ management and fund platforms (i.e web portal)
   <li style="color:black"><b>Marathon 2018</b></li>
   - Organiser
 </ul>
+
+---
 
 ### INTERESTS
 <ul>
