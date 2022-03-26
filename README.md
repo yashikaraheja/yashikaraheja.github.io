@@ -19,6 +19,7 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="node" width="40" height="40"/>
   <img src="https://www.christianengvall.se/wp-content/uploads/2014/05/Git-Logo-2Color-1024x450.png" alt="git" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.softacus.com/images/2020/05/07/urbancode-deploy.png" alt="urban deploy" width="40" height="40"/>
 </p>
 
 ---
