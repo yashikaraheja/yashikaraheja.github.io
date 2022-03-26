@@ -60,15 +60,15 @@ management and fund platforms (i.e web portal)
 
 ### ACHIEVEMENTS
 <ul>
-  <li style="color:black">CodeVita Zonal(2020)</li>
+  <li style="color:black"><b>CodeVita Zonal(2020)</b></li>
   - Shortlisted for final coding round
-  <li style="color:black">IT quiz MIT 2013</li>
+  <li style="color:black"><b>IT quiz MIT 2013</b></li>
   - Secured first position
-  <li style="color:black">National Children Science Congress</li>
+  <li style="color:black"><b>National Children Science Congress</b></li>
   - Qualified National Level
-  <li style="color:black">Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</li>
+  <li style="color:black"></b>Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</b></li>
   - Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
-  <li style="color:black">Marathon 2018</li>
+  <li style="color:black"><b>Marathon 2018</b></li>
   - Organiser
 </ul>
 
