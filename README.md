@@ -41,22 +41,6 @@ management and fund platforms (i.e web portal)
  <li>All the functionality of funds (Buy, Sell & Switch) </li>
 </ul>
 
-
-
----
-
-## Education
-
-### **DCRUST Murthal**
-### BTech Computer Science (2016- 2020)
-8.2 SGPA
-
-### **Vaish Model Senior Secondary School Bhiwani**
-### Class 12th (2016)
-94.2%
-### Class 10th (2014)
-9.8 CGPA
-
 ---
 
 ### PROJECTS
@@ -73,7 +57,22 @@ management and fund platforms (i.e web portal)
   - The project helps to test your knowledge with a quick,fun challenge
 </ul>
 
+
 ---
+
+## Education
+
+### **DCRUST Murthal**
+### BTech Computer Science (2016- 2020)
+8.2 SGPA
+
+### **Vaish Model Senior Secondary School Bhiwani**
+### Class 12th (2016)
+94.2%
+### Class 10th (2014)
+9.8 CGPA
+
+
 
 ### ACHIEVEMENTS
 <ul>
