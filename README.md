@@ -48,7 +48,13 @@ management and fund platforms (i.e web portal)
 
 ### **DCRUST Murthal**
 ### BTech Computer Science (2016- 2020)
-GPA 8.2
+8.2 SGPA
+
+### **Vaish Model Senior Secondary School Bhiwani**
+### Class 12th (2016)
+94.2%
+### Class 10th (2014)
+9.8 CGPA
 
 ---
 
