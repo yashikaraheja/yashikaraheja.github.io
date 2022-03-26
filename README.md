@@ -11,13 +11,14 @@ I am a full stack developer with an experience of over 1.7 years. I have hands o
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://www.cloudsavvyit.com/thumbcache/0/0/9ae57549b0d5ea676000cc68d140330d/p/uploads/2020/03/9c80fe24.png" alt="redux" width="auto" height="40"/>
+  <img src="https://france.scc.com/wp-content/uploads/2021/02/AWS_logo_CMYK-png.png" alt="aws" width="40" height="40"/>
    <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="java" width="40" height="40"/>
   <img src="https://miro.medium.com/max/600/1*gxXLMIuJDHCH7fwIgEP1cg.png" alt="spring boot" width="40" height="40"/>
   <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="postman" width="40" height="40"/>
   <img src="https://www.technoscore.com/images/services/node-js-icon.png" alt="node" width="40" height="40"/>
-  <img src="https://france.scc.com/wp-content/uploads/2021/02/AWS_logo_CMYK-png.png" alt="aws" width="40" height="40"/>
   <img src="https://www.christianengvall.se/wp-content/uploads/2014/05/Git-Logo-2Color-1024x450.png" alt="git" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/jenkins-282182.png" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-1-logo-png-transparent.png" alt="jenkins" width="40" height="40"/>
 </p>
 
 ---
@@ -51,7 +52,25 @@ GPA 8.2
 
 ---
 
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+### ACHIEVEMENTS
+<ul>
+  <li>CodeVita Zonal(2020)</li>
+  - Shortlisted for final coding round
+  <li>IT quiz MIT 2013</li>
+  - Secured first position
+  <li>National Children Science Congress</li>
+  - Qualified National Level
+  <li>Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</li>
+  - Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
+  <li>Marathon 2018</li>
+  - Organiser
+</ul>
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+### INTERESTS
+<ul>
+  <li>Coding</li>
+  <li>Acting</li>
+  <li>Dancing</li>
+  <li>Poetry</li>
+</ul>
+
