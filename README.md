@@ -67,7 +67,7 @@ management and fund platforms (i.e web portal)
   - Secured first position
   <li style="color:black"><b>National Children Science Congress</b></li>
   - Qualified National Level
-  <li style="color:black"></b>Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</b></li>
+  <li style="color:black"><b>Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</b></li>
   - Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
   <li style="color:black"><b>Marathon 2018</b></li>
   - Organiser
