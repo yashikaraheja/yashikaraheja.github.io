@@ -47,15 +47,15 @@ management and fund platforms (i.e web portal)
 ### PROJECTS
 <ul>
   <li style="color:black"><b>Library Management System (Java)</b></li>
-  - The project manages and stores books information electronically acc. to students needs
+  The project manages and stores books information electronically acc. to students needs
   <li style="color:black"><b>Face Detection (Python)</b></li>
-  - The project helps to locate/visualize human faces in digital images
+  The project helps to locate/visualize human faces in digital images
   <li style="color:black"><b>Google calender (React, Node JS, MongoDB)</b></li>
-  - The project helps in managing appointments, sharing dates and information, having searchability and many more things.
+  The project helps in managing appointments, sharing dates and information, having searchability and many more things.
   <li style="color:black"><b>TODO App (React Js)</b></li>
-  - The project helps to maintain our day-to-day tasks that we have to do
+  The project helps to maintain our day-to-day tasks that we have to do
   <li style="color:black"><b>Online Quiz App (React Js)</b></li>
-  - The project helps to test your knowledge with a quick,fun challenge
+  The project helps to test your knowledge with a quick,fun challenge
 </ul>
 
 
@@ -78,15 +78,15 @@ management and fund platforms (i.e web portal)
 ### ACHIEVEMENTS
 <ul>
   <li style="color:black"><b>CodeVita Zonal 2020</b></li>
-  - Shortlisted for final coding round
+  Shortlisted for final coding round
   <li style="color:black"><b>IT quiz MIT 2013</b></li>
-  - Secured first position
+  Secured first position
   <li style="color:black"><b>National Children Science Congress</b></li>
-  - Qualified National Level
+  Qualified National Level
   <li style="color:black"><b>Coordinator at Jzaa - the dramatics group of DCRUST, Murthal</b></li>
-  - Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
+  Performed and won many street plays, stage play, mime, spoof and skit at IIT Delhi, IIT Kanpur, NIT Kurukshetra, Chitkara etc.
   <li style="color:black"><b>Marathon 2018</b></li>
-  - Organiser
+  Organiser
 </ul>
 
 ---
